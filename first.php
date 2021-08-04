@@ -85,6 +85,17 @@
 // hello($a);
 // echo("<br>");
 // echo("outside function--> ".$a)
+
+
+// Variable Functions
+
+// $myFunc = function($start,$end){
+//   for($i=$num;$i<=$end;$i++){
+//     echo("<br>".$i);
+//   }
+// };
+// $myFunc(.1,20);
+
  
 
 
